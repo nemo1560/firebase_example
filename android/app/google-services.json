@@ -1,0 +1,48 @@
+{
+   "project_info": {
+     "project_number": "297656409467",
+     "firebase_url": "https://felixzone-349011-default-rtdb.asia-southeast1.firebasedatabase.app",
+     "project_id": "felixzone-349011",
+     "storage_bucket": "felixzone-349011.appspot.com"
+   },
+   "client": [
+     {
+       "client_info": {
+         "mobilesdk_app_id": "1:297656409467:android:e001e11dad4dfd535871de",
+         "android_client_info": {
+           "package_name": "com.felix.zone"
+         }
+       },
+       "oauth_client": [
+         {
+           "client_id": "297656409467-on0l2ifj21p7h35us6e2432kqkmkjefa.apps.googleusercontent.com",
+           "client_type": 1,
+           "android_info": {
+             "package_name": "com.felix.zone",
+             "certificate_hash": "4be290075af924b5b411d9ca66b89013cf9a82ec"
+           }
+         },
+         {
+           "client_id": "297656409467-reorou3fenq3ctsfh2an3clp25cqe7nq.apps.googleusercontent.com",
+           "client_type": 3
+         }
+       ],
+       "api_key": [
+         {
+           "current_key": "AIzaSyArT14QzqSgQEl2PrlML6l-LLX0gpapsg4"
+         }
+       ],
+       "services": {
+         "appinvite_service": {
+           "other_platform_oauth_client": [
+             {
+               "client_id": "297656409467-reorou3fenq3ctsfh2an3clp25cqe7nq.apps.googleusercontent.com",
+               "client_type": 3
+             }
+           ]
+         }
+       }
+     }
+   ],
+   "configuration_version": "1"
+ } 
